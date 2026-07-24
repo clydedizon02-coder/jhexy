@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Jhexy Jhelon Vengazo
 San La Union
 19
 Ilove playing Call of Duty mobile
+=======
+
+>>>>>>> b4294f4578c3baaaa5156125e04be1c159b2eb03
